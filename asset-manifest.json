@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/FakeAirplane/static/css/main.0681d934.css",
+    "main.js": "/FakeAirplane/static/js/main.07bc3af6.js",
+    "static/js/787.cda612ba.chunk.js": "/FakeAirplane/static/js/787.cda612ba.chunk.js",
+    "static/media/search-section@3x.png": "/FakeAirplane/static/media/search-section@3x.8f2ebf453f748aa495c5.png",
+    "static/media/pariscard@3x.png": "/FakeAirplane/static/media/pariscard@3x.36a0e4a6cd2f30cd63d7.png",
+    "static/media/subscribe-section@3x.png": "/FakeAirplane/static/media/subscribe-section@3x.014e652d11a986b1a9c3.png",
+    "index.html": "/FakeAirplane/index.html",
+    "main.0681d934.css.map": "/FakeAirplane/static/css/main.0681d934.css.map",
+    "main.07bc3af6.js.map": "/FakeAirplane/static/js/main.07bc3af6.js.map",
+    "787.cda612ba.chunk.js.map": "/FakeAirplane/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0681d934.css",
+    "static/js/main.07bc3af6.js"
+  ]
+}
